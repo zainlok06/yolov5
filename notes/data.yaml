@@ -1,0 +1,13 @@
+train: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/train/images
+val: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/valid/images
+test: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/test/images
+
+nc: 2
+names: ['note', 'robot']
+
+roboflow:
+  workspace: 2024massnotedataset
+  project: notefindermassdataset
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/2024massnotedataset/notefindermassdataset/dataset/1
