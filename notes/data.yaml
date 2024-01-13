@@ -1,6 +1,6 @@
-train: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/train/images
-val: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/valid/images
-test: C://Users/zainl/OneDrive/Documents/robotics/vision/yolov5/notes/test/images
+train: "C://Users/adith/Robotics Programming/Vision/yolov5/notes/train/images"
+val: "C://Users/adith/Robotics Programming/Vision/yolov5/notes/valid/images"
+test: "C://Users/adith/Robotics Programming/Vision/pyyolov5/notes/test/images"
 
 nc: 2
 names: ['note', 'robot']
